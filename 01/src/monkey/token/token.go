@@ -17,8 +17,8 @@ const (
   INT   = "INT"
 
   // OPERATORS
-  ASSIGN = "ASSIGN"
-  ADD    = "ADD"
+  ASSIGN = "="
+  PLUS   = "+"
 
   // DELIMITERS 
   COMMA     = ","
